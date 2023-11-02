@@ -46,6 +46,11 @@ You can specify proxies by providing the `--proxies` argument, followed by one o
 python commonscraper.py --proxies=http://myproxy.com,https://myproxy.com
 ```
 
+## 🖼️ Screenshots
+![Screenshot 1](https://github.com/gamemaster123356/CommonScraper/blob/github-assets/screenshot1.png)
+![Screenshot 2](https://github.com/gamemaster123356/CommonScraper/blob/github-assets/screenshot2.png)
+![Screenshot 3](https://github.com/gamemaster123356/CommonScraper/blob/github-assets/screenshot3.png)
+
 ## 🛠️ Requirements
 
 The script requires the following Python packages:
