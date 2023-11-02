@@ -1,4 +1,4 @@
-# Common Words Scraper
+# Common Scraper
 
 This is a Python-based web scraper that extracts and counts the occurrences of common words from a given URL. The script supports the use of proxies for scraping. It utilizes the `requests` and `BeautifulSoup` libraries for web scraping and parsing HTML content.
 
