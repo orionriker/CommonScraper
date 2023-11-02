@@ -1,5 +1,12 @@
 # Common Scraper
 
+<div align="center">
+  <img alt="GitHub release (release name instead of tag name)" src="https://img.shields.io/github/v/release/gamemaster123356/CommonScraper?color=dodgerblue&include_prereleases&label=latest&sort=date&style=for-the-badge">
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/gamemaster123356/CommonScraper?color=dodgerblue&label=stars&style=for-the-badge">
+  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/gamemaster123356/CommonScraper?color=dodgerblue&label=issues&style=for-the-badge">
+  <img alt="GitHub License" src="https://img.shields.io/badge/LICENSE-gnu%20gpl%20v3-dodgerblue?style=for-the-badge">
+</div><br><br>
+
 This is a Python-based web scraper that extracts and counts the occurrences of common words from a given URL. The script supports the use of proxies for scraping. It utilizes the `requests` and `BeautifulSoup` libraries for web scraping and parsing HTML content.
 
 ## ⚙️ Installation
