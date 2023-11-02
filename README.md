@@ -1,1 +1,3 @@
-<center><h1>Common Scraper - Github Assets</h1></center>
+<p align="center">
+  <h1>Common Scraper - Github Assets</h1>
+</p>
