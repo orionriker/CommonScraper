@@ -1,4 +1,6 @@
-# Common Scraper
+<h1 align="center">
+  Common Scraper
+</h1>
 
 <div align="center">
   <img alt="GitHub release (release name instead of tag name)" src="https://img.shields.io/github/v/release/gamemaster123356/CommonScraper?color=dodgerblue&include_prereleases&label=latest&sort=date&style=for-the-badge">
