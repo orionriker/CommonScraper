@@ -24,7 +24,7 @@ You can also download the ZIP file by clicking on the green "Code" button in the
 
 After downloading and extracting, you can navigate to the project directory.
 ```
-cd CommonScraper
+cd CommonScraper-main
 ```
 
 ## 🚀 Usage
