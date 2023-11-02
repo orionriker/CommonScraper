@@ -16,6 +16,11 @@ pip install requests beautifulsoup4
 git clone https://github.com/gamemaster123356/CommonScraper.git
 ```
 
+After downloading, you can navigate to the project directory.
+```
+cd CommonScraper
+```
+
 OR
 
 ### Download ZIP
