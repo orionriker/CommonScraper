@@ -1,8 +1,8 @@
-# Common Words Scraper 📊
+# Common Words Scraper
 
 This is a Python-based web scraper that extracts and counts the occurrences of common words from a given URL. The script supports the use of proxies for scraping. It utilizes the `requests` and `BeautifulSoup` libraries for web scraping and parsing HTML content.
 
-## Installation ⚙️
+## ⚙️ Installation
 
 You can download this project by either cloning the repository or downloading it as a ZIP file.
 
@@ -22,19 +22,19 @@ Install the required packages:
 
 pip install -r requirements.txt
 
-## Usage 🚀
+## 🚀 Usage
 
 To use the Common Words Scraper, run the script `common_scraper.py` and follow the instructions on the command line. The script allows you to specify a URL and choose the HTML elements to scrape.
 
 python common_scraper.py
 
-### Proxies 🔒
+### 🔒 Proxies
 
 You can specify proxies by providing the `--proxies` argument, followed by one or more proxies separated by commas.
 
 python common_scraper.py --proxies=http://myproxy.com,https://myproxy.com
 
-## Requirements 🛠️
+## 🛠️ Requirements
 
 The script requires the following Python packages:
 
@@ -45,14 +45,10 @@ You can install the required packages using the following command:
 
 pip install requests beautifulsoup4
 
-## License 📝
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements 🙏
-
-The script is based on the code provided by `gamemaster123356` in Python.
-
-## Note 📌
+## 📌 Note
 
 The script is for educational and informational purposes only. Make sure to comply with ethical web scraping practices and respect the terms of service of the websites you are scraping.
