@@ -22,9 +22,9 @@ OR
 
 You can also download the ZIP file by clicking on the green "Code" button in the GitHub repository and then selecting "Download ZIP".
 
-After downloading, navigate to the project directory.
+After downloading and extracting, you can navigate to the project directory.
 ```
-cd your_repository
+cd CommonScraper
 ```
 
 ## 🚀 Usage
