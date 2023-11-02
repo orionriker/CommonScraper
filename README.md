@@ -13,7 +13,7 @@ pip install requests beautifulsoup4
 
 ### Clone the Repository
 ```
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/gamemaster123356/CommonScraper.git
 ```
 
 OR
@@ -31,14 +31,14 @@ cd CommonScraper-main
 
 To use the Common Words Scraper, run the script `common_scraper.py` and follow the instructions on the command line. The script allows you to specify a URL and choose the HTML elements to scrape.
 ```
-python common_scraper.py
+python commonscraper.py
 ```
 
 ### 🔒 Proxies
 
 You can specify proxies by providing the `--proxies` argument, followed by one or more proxies separated by commas.
 ```
-python common_scraper.py --proxies=http://myproxy.com,https://myproxy.com
+python commonscraper.py --proxies=http://myproxy.com,https://myproxy.com
 ```
 
 ## 🛠️ Requirements
