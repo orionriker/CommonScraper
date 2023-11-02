@@ -6,10 +6,17 @@ This is a Python-based web scraper that extracts and counts the occurrences of c
 
 You can download this project by either cloning the repository or downloading it as a ZIP file.
 
+### Install the required packages:
+```
+pip install requests beautifulsoup4
+```
+
 ### Clone the Repository
 ```
 git clone https://github.com/your_username/your_repository.git
 ```
+
+OR
 
 ### Download ZIP
 
@@ -18,11 +25,6 @@ You can also download the ZIP file by clicking on the green "Code" button in the
 After downloading, navigate to the project directory.
 ```
 cd your_repository
-```
-
-Install the required packages:
-```
-pip install requests beautifulsoup4
 ```
 
 ## 🚀 Usage
