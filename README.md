@@ -49,7 +49,11 @@ python commonscraper.py --proxies=http://myproxy.com,https://myproxy.com
 ## 🖼️ Screenshots
 ![Screenshot 1](https://github.com/gamemaster123356/CommonScraper/blob/github-assets/screenshot1.png)
 
+<hr>
+
 ![Screenshot 2](https://github.com/gamemaster123356/CommonScraper/blob/github-assets/screenshot2.png)
+
+<hr>
 
 ![Screenshot 3](https://github.com/gamemaster123356/CommonScraper/blob/github-assets/screenshot3.png)
 
